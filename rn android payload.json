@@ -1,0 +1,90 @@
+rn android payload
+
+{
+    "altUrl": "",
+    "campaignId": null,
+    "collapseKey": "com.cimrimobilevoyager",
+    "foreground": "false",
+    "from": "761304760773",
+    "mediaUrl": null,
+    "message": null,
+    "params": {
+        "altUrl": "",
+        "collapse_key": "com.cimrimobilevoyager",
+        "from": "761304760773",
+        "google.delivered_priority": "normal",
+        "google.message_id": "0:1624858009571248%a2004660a2004660",
+        "google.original_priority": "normal",
+        "google.sent_time": "1624858009558",
+        "google.ttl": "2419200",
+        "pushId": "3e81d171-e0cd-4fc3-80fd-d76ff7782b7a",
+        "pushType": "Text",
+        "utm_campaign": "test",
+        "utm_medium": "test",
+        "utm_source": "test"
+    },
+    "pushId": "3e81d171-e0cd-4fc3-80fd-d76ff7782b7a",
+    "pushType": "Text",
+    "sound": null,
+    "title": null,
+    "url": null
+}
+
+unchecked  rn android payload
+
+{
+    "altUrl": "",
+    "campaignId": null,
+    "collapseKey": "com.cimrimobilevoyager",
+    "foreground": "false",
+    "from": "761304760773",
+    "mediaUrl": null,
+    "message": null,
+    "params": {
+        "altUrl": "",
+        "collapse_key": "com.cimrimobilevoyager",
+        "from": "761304760773",
+        "google.delivered_priority": "normal",
+        "google.message_id": "0:1624858772451811%a2004660a2004660",
+        "google.original_priority": "normal",
+        "google.sent_time": "1624858772437",
+        "google.ttl": "2419200",
+        "pushId": "92c1b112-8a2c-4d98-9ef8-ba6729eff36e",
+        "pushType": "Text",
+        "utm_campaign": "test",
+        "utm_medium": "test",
+        "utm_source": "test"
+    },
+    "pushId": "92c1b112-8a2c-4d98-9ef8-ba6729eff36e",
+    "pushType": "Text",
+    "sound": null,
+    "title": null,
+    "url": null
+}
+
+
+ios poyload
+
+{
+    "altUrl": "",
+    "aps": {
+        "alert": {
+            "body": "baris testios",
+            "title": "baris testios"
+        },
+        "badge": 0,
+        "content-available": 0,
+        "sound": ""
+    },
+    "deepLink": "",
+    "emPushSp": "CF203B70D23C40DF84167C339648CC94|2CCE03D672E4492EB6C85CDBD8AB9D5E|F0CE0E3B9BA64CB9B6F0782F5877E5A9|273055|1|0|true|false|0|0",
+    "mediaUrl": "",
+    "notificationId": "764210BC-C9BD-4D15-AD1F-1D059B094BF4",
+    "pushId": "a060da5e-3463-48e1-9477-26725bf1431f",
+    "pushType": "Text",
+    "remote": true,
+    "url": "",
+    "utm_campaign": "test",
+    "utm_medium": "test",
+    "utm_source": "test"
+}

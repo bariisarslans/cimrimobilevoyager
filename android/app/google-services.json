@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "761304760773",
+    "firebase_url": "https://api-4748648694346656840-71226.firebaseio.com",
+    "project_id": "api-4748648694346656840-71226",
+    "storage_bucket": "api-4748648694346656840-71226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761304760773:android:76585c7ffdc87ceb",
+        "android_client_info": {
+          "package_name": "com.cimrimobilevoyager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761304760773-nrsv0i8pram722u58doo4rsf6g8og6ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBTRQJ-46iMarzBbYiLeMMb6J3hRnl-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
